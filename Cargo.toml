@@ -1,0 +1,9 @@
+[package]
+name = "ss-validator"
+version = "0.1.0"
+authors = ["Sakthivel Viswanathan"]
+edition = "2018"
+
+[dependencies]
+calamine = "0.15.4"
+clap = "2.33.0"
